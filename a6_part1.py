@@ -1,7 +1,7 @@
 """
 Assignment 6 Part 1: Student Performance Prediction
-Name: _______________
-Date: _______________
+Name: Patrick Nyman
+Date: November 18, 2025
 
 This assignment predicts student test scores based on hours studied.
 Complete all the functions below following the in-class ice cream example.
